@@ -1,36 +1,54 @@
 # Product Overview
 
 ## Product Name
-TBD — domain: Health & Habits
+SmartCart AI
+
+## Tagline
+The AI-Powered Grocery Savings Platform — "Google Flights for Groceries"
 
 ## What It Is
-A personalized habit coaching app that closes the **accountability gap** — most health apps collect data but don't change behavior. This app delivers daily check-ins, smart nudges, and streak-based motivation to keep users consistently showing up to their health goals.
+SmartCart AI is an intelligent grocery-shopping platform that finds the lowest grocery prices across participating stores within a selected radius (10–20 miles or more) of the user's home. Users create a grocery list via text, photo upload, or voice commands; the AI compares real-time prices, promotions, and totals across nearby stores; and the app routes the user to the best deal — with in-app checkout, curbside pickup, or delivery built in.
 
 ## Core Problem
-People want to be healthier but can't sustain routines alone. Existing apps track data; they don't coach. The gap between knowing what to do and actually doing it is the real opportunity.
+Consumers spend hours comparing grocery prices between stores, hunting for deals, and planning meals. Most grocery apps show prices from only one retailer, making it impossible to find the best overall value without doing the legwork manually.
 
 ## Core Solution
-A daily accountability and nudge system that builds lasting habit momentum through:
-- Personalized goal-setting (movement, nutrition, sleep, or custom habit)
-- Daily check-in prompts — one simple, non-judgmental action per day
-- Streak tracking and milestone recognition (7, 30, 90 days)
-- Smart reminders tailored to individual behavior patterns
-- Progress insights (weekly trends reinforcing the habit loop)
+An AI price-comparison and smart-checkout platform that:
+1. Accepts a grocery list via typing, photo upload (handwritten or printed), or voice commands
+2. Scans participating stores in the user's area for real-time prices and active promotions
+3. Calculates the total cost at each store and recommends the lowest-price option
+4. Shows alternatives ranked by quality, distance, or savings
+5. Enables checkout directly in the app with curbside pickup, home delivery, or same-day delivery
+6. Connects users to independent delivery drivers via a built-in delivery marketplace with real-time tracking
 
 ## Target Users
-Being refined. Candidates:
-- Busy working adults who want to maintain health routines but struggle with consistency
-- People recovering from illness or injury, rebuilding healthy habits
-- Parents who want to model healthy habits for their families
-- Young adults establishing their first real health routines
+- Budget-conscious households (families and individuals) who grocery-shop regularly
+- Busy parents managing weekly meal planning and grocery runs
+- Health-conscious shoppers tracking nutrition and dietary goals
+- Cost-aware young adults establishing household routines
 
-## Business Model
-Monthly subscription — free tier to acquire users, premium tier unlocking advanced coaching plans, detailed analytics, and personalized nudges. Recurring revenue that grows with every retained subscriber.
+## Premium Subscription Features
+- **AI Meal Planner** — personalized Mon–Fri meal plans based on family size, budget, dietary preferences, and weight-loss or fitness goals
+- **Smart Recipe Generator** — suggests recipes from items already purchased, ingredients currently on sale, and leftovers to reduce waste
+- **Pantry Management** — tracks household inventory, sends low-stock alerts, and auto-generates shopping lists
+- **Nutrition Assistant** — analyzes nutritional content, suggests healthier alternatives, and helps users meet calorie and fitness goals
+- **Price Prediction Engine** — predicts when grocery items may go on sale and recommends the best time to buy
+
+## Business Model & Revenue Streams
+1. **Premium monthly subscriptions** — free tier (core price comparison) + paid tier (meal planner, pantry, nutrition, prediction engine)
+2. **Delivery fees** — per-delivery fee on independent driver orders via the delivery marketplace
+3. **Grocery store partnerships** — revenue-share or placement fees from participating retailers
+4. **Sponsored product placements** — brands pay for featured placement in search results and recommendations
+5. **Digital coupons and cashback offers** — affiliate and coupon monetization
+6. **White-label software licensing** — license the platform to grocery chains for their own apps
+
+## Long-Term Vision
+Become the "Google Flights for Groceries" — the definitive platform for instant grocery price comparison, meal planning, and household food budget management, all in one AI-powered app.
 
 ## Tone & Brand
-Encouraging, practical, calm. Not a drill-sergeant. Not a guilt-machine. A consistent, supportive presence that celebrates showing up more than being perfect.
+Smart, practical, trustworthy. Empowers users to feel like savvy shoppers — not coupon-clippers. Confident, clear, frictionless.
 
 ## Strategic Principles
-- **Accountability over analytics** — the product's job is behavior change, not data collection
-- **Simplicity first** — one meaningful daily action, not a complex dashboard
-- **Impact and income are the same signal** — users who get real results pay and stay
+- **Comparison is the product** — the core value is saving real money on a recurring weekly spend, not features for their own sake
+- **Data network effect** — more participating stores and users makes the comparison more valuable for everyone
+- **Help = income** — users who save more than their subscription cost stay forever; that's the retention engine
