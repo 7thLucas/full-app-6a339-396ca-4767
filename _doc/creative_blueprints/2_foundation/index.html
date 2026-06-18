@@ -1,0 +1,52 @@
+<style>
+.mode-landscape .sl-layout { flex-direction: row; gap: 3rem; }
+.mode-portrait .sl-layout { flex-direction: column; gap: 1.5rem; }
+.mode-landscape .sl-main { width: 58%; }
+.mode-portrait .sl-main { width: 100%; }
+.mode-landscape .sl-visual { width: 42%; }
+.mode-portrait .sl-visual { width: 100%; height: 38%; }
+</style>
+
+<section class="w-full h-full overflow-auto bg-white">
+  <div class="sl-layout flex h-full p-12">
+
+    <!-- Problem / Solution column -->
+    <div class="sl-main flex flex-col justify-center gap-7">
+
+      <!-- Problem -->
+      <div>
+        <p class="text-xs font-bold tracking-widest uppercase text-rose-500 mb-3">The Problem</p>
+        <h2 class="text-2xl font-black text-slate-900 leading-snug mb-3">
+          Most health apps collect data.<br>They don't change behavior.
+        </h2>
+        <p class="text-slate-500 text-sm leading-relaxed">
+          People track calories, steps, and sleep — then quit after two weeks. The problem isn't information; it's accountability. Without a consistent check-in, motivation evaporates and routines collapse.
+        </p>
+      </div>
+
+      <div class="h-px bg-slate-100"></div>
+
+      <!-- Solution -->
+      <div>
+        <p class="text-xs font-bold tracking-widest uppercase text-emerald-600 mb-3">The Solution</p>
+        <h2 class="text-2xl font-black text-slate-900 leading-snug mb-3">
+          A daily coach in your pocket.
+        </h2>
+        <p class="text-slate-500 text-sm leading-relaxed">
+          Personalized goal-setting, daily check-in prompts, streak tracking, and smart nudges — the accountability loop people actually need to make habits stick, delivered simply and consistently every day.
+        </p>
+      </div>
+
+    </div>
+
+    <!-- Visual -->
+    <div class="sl-visual rounded-2xl overflow-hidden">
+      <img
+        src="https://api.qb-deck.quantumbyte.ai/common/image-generation?prompt=person%20checking%20a%20habit%20tracker%20app%20on%20phone%2C%20calm%20home%20environment%2C%20morning%20light%2C%20focused%20and%20purposeful%2C%20editorial%20photography%20style"
+        class="w-full h-full object-cover"
+        alt=""
+      />
+    </div>
+
+  </div>
+</section>
