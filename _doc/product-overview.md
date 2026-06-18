@@ -21,6 +21,22 @@ An AI price-comparison and smart-checkout platform that:
 5. Enables checkout directly in the app with curbside pickup, home delivery, or same-day delivery
 6. Connects users to independent delivery drivers via a built-in delivery marketplace with real-time tracking
 
+## Current Build State (MVP — shipped)
+The first version is live and running on realistic demo store/price data (clearly marked, swappable to live retailer pricing without UI changes).
+
+**Live now:**
+- Create a grocery list by typing — add/remove, quantities, quick-add suggestions, dedupe
+- AI price comparison that totals the full list at every participating store
+- "Best Value" recommendation (winning store, savings amount + %, distance, rating, promos, fulfillment options) plus ranked alternatives sortable by price/distance, with per-item breakdowns
+- Smart-checkout foundation (pickup / delivery / in-store selection + confirmation; demo flow, no live payment)
+
+**Stubbed / coming next:**
+- Photo upload and voice entry for list creation (UI present, marked "coming soon")
+
+**Planned (phase 2, not yet built):**
+- Delivery marketplace with independent drivers and real-time tracking
+- Premium features: AI Meal Planner, Smart Recipe Generator, Pantry Management, Nutrition Assistant, Price Prediction Engine
+
 ## Target Users
 - Budget-conscious households (families and individuals) who grocery-shop regularly
 - Busy parents managing weekly meal planning and grocery runs
